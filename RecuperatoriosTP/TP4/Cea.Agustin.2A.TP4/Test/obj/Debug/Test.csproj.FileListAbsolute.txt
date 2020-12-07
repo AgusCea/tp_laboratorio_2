@@ -1,0 +1,17 @@
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\Test.exe
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\Test.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\WindowsForms.exe
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\Entidades.dll
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\Persistencia de Datos.dll
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\Excepciones.dll
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\WindowsForms.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\WindowsForms.exe.config
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\Persistencia de Datos.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\bin\Debug\Excepciones.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\obj\Debug\Test.exe
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Test\obj\Debug\Test.pdb

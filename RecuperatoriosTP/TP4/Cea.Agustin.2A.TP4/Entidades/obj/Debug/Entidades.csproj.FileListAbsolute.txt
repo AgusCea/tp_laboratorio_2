@@ -1,0 +1,9 @@
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Entidades\bin\Debug\Excepciones.dll
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete

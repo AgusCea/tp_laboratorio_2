@@ -1,0 +1,20 @@
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FormPrincipal.resources
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\bin\Debug\Entidades.dll
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\bin\Debug\Entidades.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FormPelota.resources
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FormVideoJuego.resources
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FormVenta.resources
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\bin\Debug\Excepciones.dll
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\bin\Debug\Persistencia de Datos.dll
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\bin\Debug\Excepciones.pdb
+C:\Users\aju\Desktop\Cea.Agustin.2A.TP4\WindowsForms\bin\Debug\Persistencia de Datos.pdb

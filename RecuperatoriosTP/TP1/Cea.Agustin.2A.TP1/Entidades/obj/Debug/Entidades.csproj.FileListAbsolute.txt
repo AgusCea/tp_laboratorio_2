@@ -1,0 +1,6 @@
+C:\Users\aju\Desktop\ProgramaciónII.2020\Cea.Agustin.2A.TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\aju\Desktop\ProgramaciónII.2020\Cea.Agustin.2A.TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\aju\Desktop\ProgramaciónII.2020\Cea.Agustin.2A.TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\aju\Desktop\ProgramaciónII.2020\Cea.Agustin.2A.TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\aju\Desktop\ProgramaciónII.2020\Cea.Agustin.2A.TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\aju\Desktop\ProgramaciónII.2020\Cea.Agustin.2A.TP1\Entidades\obj\Debug\Entidades.pdb
